@@ -442,11 +442,11 @@
 			]
 		},
 		"octo-ps.sol": {
-			"keccak256": "0x49417b572440f0e1d8065c00b8c454c232b352dda66ed81360ba794158408c70",
+			"keccak256": "0xac7dddc89cd1aa4bee8f63c28281dcf85df817723106d0133e5920dd49af8749",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://81c99607d6d658b1fb18f4c9d0201d0d39b36ccd788415528dc162d6de6b371b",
-				"dweb:/ipfs/QmWxeGsWpBk6r6pSLhzhLSgsWJ2G6xcebvJT5UBQHJ1gYD"
+				"bzz-raw://edc41d638ee4085f3cbd79a0dba5a5bb327b5ab04868126be6a2b49df12b6a23",
+				"dweb:/ipfs/QmXWEoy9zbakfDnqoDCkGS2i9Wow2BAmf3Xj6UCoZ3w4VX"
 			]
 		}
 	},

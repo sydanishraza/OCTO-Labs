@@ -9,7 +9,7 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 contract PreSale is Ownable, ReentrancyGuard {
     IERC20 public token;
     address public preSaleWallet;
-    uint256 public rate; // Number of tokens per ETH
+    uint256 public rate; 
     uint256 public minContribution;
     uint256 public maxContribution;
     uint256 public startTime;
